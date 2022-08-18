@@ -1,5 +1,8 @@
 # datasciencecoursera
 curso em R para machine learning
+
+: https://github.com/jtleek/datasharing
+
 Como compartilhar dados com um estatístico
 Este é um guia para quem precisa compartilhar dados com um estatístico ou cientista de dados. Os públicos-alvo que tenho em mente são:
 
